@@ -2,7 +2,7 @@
 <li>This was the 6th project that I worked on in the TripleTen Business Intelligence Analytics Program.</li>
 <li>It was an independent project designed to showcase what I have learned about Power BI.</li>
 <li>The purpose was to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites, and to figure out what key factors play into the success of a Shopify app.</li>
-<img src=".png" alt="Desktop Screenshot" width="600">
+
 <h2>Description:</h2>
 <li>
   3 page Power BI Dashboard </li>
